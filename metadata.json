@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Bed Allocation System",
+  "description": "Professional hospital bed management, real-time bed occupancy tracking, emergency prioritization, and patient admission workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
